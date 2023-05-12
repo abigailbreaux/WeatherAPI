@@ -1,3 +1,5 @@
+Final Project - Weather API
+
 The goal of the code is to create a weather reporting application that utilizes the OpenWeatherMap API to retrieve and display weather information for a specified city. The code prompts the user to enter a city, retrieves the weather data using the API, and presents details such as weather description, temperature, humidity, pressure, and wind speed. It also includes additional features like converting temperature units and providing recommendations based on weather conditions. The code aims to provide users with an easy-to-use interface to obtain accurate and up-to-date weather information for their desired location.
 
 1. The code begins by importing the necessary libraries: `urllib.request` for making HTTP requests and `json` for working with JSON data.
