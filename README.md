@@ -46,3 +46,5 @@ The goal of the code is to create a weather reporting application that utilizes 
 20. Finally, a closing message is displayed.
 
 The code essentially retrieves weather data from the OpenWeatherMap API for a user-specified city and presents it in a user-friendly format, providing information such as description, temperature, humidity, pressure, and wind speed.
+
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
